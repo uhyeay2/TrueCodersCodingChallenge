@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueCodersCodingChallenge", "TrueCodersCodingChallenge\TrueCodersCodingChallenge.csproj", "{CEABE4F6-82C1-4140-9CA3-66C36E1CB659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueCodersCodingChallenge.Tests", "TrueCodersCodingChallenge.Tests\TrueCodersCodingChallenge.Tests.csproj", "{C465CB74-C9AE-46B7-9E34-352AD4BA0FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEABE4F6-82C1-4140-9CA3-66C36E1CB659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEABE4F6-82C1-4140-9CA3-66C36E1CB659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEABE4F6-82C1-4140-9CA3-66C36E1CB659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEABE4F6-82C1-4140-9CA3-66C36E1CB659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C465CB74-C9AE-46B7-9E34-352AD4BA0FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C465CB74-C9AE-46B7-9E34-352AD4BA0FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C465CB74-C9AE-46B7-9E34-352AD4BA0FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C465CB74-C9AE-46B7-9E34-352AD4BA0FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4081F8AA-0BC0-4FE4-9631-9E7881582FC7}
+	EndGlobalSection
+EndGlobal
